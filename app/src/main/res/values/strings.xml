@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Quizzzz</string>
+
+    <string name="question1">1. Omnivores eat following food</string>
+    <string name="question1_option1">Plants</string>
+    <string name="question1_option2">Nuts</string>
+    <string name="question1_option3">Animals</string>
+    <string name="question1_option4">Cloths</string>
+
+    <string name="question2">2. Select name for study of plants and animals</string>
+    <string name="question2_option1">Botony</string>
+    <string name="question2_option2">Zooalogy</string>
+    <string name="question2_option3">Physics</string>
+    <string name="question2_option4">None of the above</string>
+
+    <string name="question3">3. The area of biology devoted to the study of fungi is known as</string>
+    <string name="question3_option1">Mycology</string>
+    <string name="question3_option2">Botony</string>
+    <string name="question3_option3">Biology</string>
+    <string name="question3_option4">Genetics</string>
+
+    <string name="question4">4. A single piece of coiled DNA is known as a</string>
+    <string name="question4_option1">Bacteria</string>
+    <string name="question4_option2">Virus</string>
+    <string name="question4_option3">Fungi</string>
+    <string name="question4_option4">Chromosome</string>
+
+    <string name="question5">5. Which famous scientist introduced the idea of natural selection</string>
+    <string name="question5_option1">Newton</string>
+    <string name="question5_option2">Einstein</string>
+    <string name="question5_option3">Charles Darwin</string>
+    <string name="question5_option4">Tom Cruise</string>
+
+    <string name="question6">6. The death of every member of a particular species is known as what</string>
+    <string name="question6_option1">Evoporation</string>
+    <string name="question6_option2">Extinction</string>
+    <string name="question6_option3">Radiation</string>
+    <string name="question6_option4">Photosynthesis</string>
+
+    <string name="question7">7. A change of the DNA in an organism that results in a new trait is known as </string>
+
+    <string name="question8">8. What is the name of the process used by plants to convert sunlight into food?</string>
+
+    <string name="question9">9. branch of biology concerned with the study of genes, genetic variation, and heredity in organisms is</string>
+
+    <string name="question10">10. True or false? A salamander is a warm blooded animal.</string>
+    <string name="question10_option1">True</string>
+    <string name="question10_option2">False</string>
+
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+
+    <string name="answer1">Plants And Animals</string>
+    <string name="answer2">Botony And Zooalogy</string>
+    <string name="answer3">Mycology</string>
+    <string name="answer4">Chromosome</string>
+    <string name="answer5">Charles Darwin</string>
+    <string name="answer6">Extinction</string>
+    <string name="answer7">Mutation</string>
+    <string name="answer8">Photosynthesis</string>
+    <string name="answer9">Genetics</string>
+    <string name="answer10">False</string>
+</resources>
